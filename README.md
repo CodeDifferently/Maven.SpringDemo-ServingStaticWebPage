@@ -1,5 +1,5 @@
-# CodeDifferently Maven Template
-* **Objective** - The purpose of this repo is to create a standard template to clone from when creating new projects.
+# Serving Static Web Page
+* **Objective** - To demonstrate the a very simple web page statically from the `resources` directory local to the project
 
 ## How to use
 1. Run this project
