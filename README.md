@@ -2,6 +2,6 @@
 * **Objective** - The purpose of this repo is to create a standard template to clone from when creating new projects.
 
 ## How to use
-* To use this project as template, _clone_ the project into you `~/dev` directory.
-* Upon cloning, open the project in a text editor (VSCode, IntelliJ, SublimeText, Atom, etc.)
-* Ensure that the `artifactId` of the project is changed from `maven-template-project` to a more appropriate project name.
+1. Run this project
+2. Navigate to `localhost:8080/` to view the statically served web page
+3. Edit `src/main/resources/webapp/index.html` to edit the web page

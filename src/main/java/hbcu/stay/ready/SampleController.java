@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class SampleController {
 
-    @GetMapping(value="/sample")
+    @GetMapping(value="/")
     public String methodName() {
-        return FileReader.readFile("webapp/Sample.html");
+        return FileReader.readFile("webapp/index.html");
     }
 }
